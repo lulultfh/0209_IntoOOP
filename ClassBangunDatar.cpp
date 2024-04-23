@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
 
-class bangunDatar{\
+class bangunDatar{
+
+    //akses modifier
+    private:
 };
